@@ -24,6 +24,9 @@
 //    [[alertView instanceAlert]showString:@"" bgColor:[UIColor yellowColor]];
     [[FAlertView instance]showMessageWithText:@"" bgColor:[UIColor purpleColor]];
     NSLog(@">>>two%@",self.view.subviews);
+    
+    
+    
 }
 
 
